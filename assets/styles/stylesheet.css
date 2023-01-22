@@ -18,6 +18,17 @@ h1, h2, h3, h4, h5, .navbar-brand {
 	font-family: 'marco_poloregular';
 }
 
-.navbar {
-	background-color: #6699cc;
+.masthead {
+    background-image: url('../images/masthead/masthead-07.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-text {
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+.header-text a, .header-text a:hover {
+    color: rgba(var(--bs-light-rgb));
 }
