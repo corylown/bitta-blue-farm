@@ -21,7 +21,9 @@ h1, h2, h3, h4, h5, .navbar-brand {
 }
 
 .masthead {
-    background-image: url('../images/masthead/masthead-07.jpg');
+    background-image: url('../images/masthead/masthead-01.jpg');
+    /* background-image: url('../images/masthead/masthead-02.jpg'); */
+    /* background-image: url('../images/masthead/masthead-03.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
 }
